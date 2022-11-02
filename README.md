@@ -1,1 +1,1 @@
-# M-todo-Primal-Simplex
+# Método Primal Simplex
