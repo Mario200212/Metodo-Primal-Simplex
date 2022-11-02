@@ -1,1 +1,1 @@
-# Algoritmo Primal Simplex
+# Método Primal Simplex
