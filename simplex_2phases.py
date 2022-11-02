@@ -83,7 +83,6 @@ def simplex_method(A,b,c,indexes_b,indexes_n):
     return  indexes_b , x_B , c_B , it ,np.dot(c_B.T , x_B)[0][0]
 
 
-## Passo 1
 
 def simplex_method_phase1(A,b,c):
     m,n = np.shape(A) # m e n representam , respc . , o numero de linhas e colunas de A
@@ -127,6 +126,7 @@ def simplex_results(it,x_B,indexes_b,c_B):
     
 ########### Defina as matrizes A, b e c do Problema aqui: ###########
 
-
+#OBS.: Depois de Definir as matrizes, basta rodar o codigo
 #####################################################################
 complete_simplex(A,b,c)
+
