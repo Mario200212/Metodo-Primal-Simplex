@@ -9,7 +9,7 @@
 
  ## Suposições
  Supomos que os inputs do problema estão na forma padrão, isto é:
- - b > 0
+ - b >= 0
  - Todos os problemas estão na forma de minimização
  - Todos as restrições estão na forma de igualdade 
     - Isto é: 
